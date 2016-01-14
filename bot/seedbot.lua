@@ -227,25 +227,29 @@ function create_config( )
     about_text = [[Teleseed v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+telecrazy v0.0.1.4
+An advance Administration bot based on yagop/telegram-bot 
+
+
+
+You can apply for the Group to the directors robot
+Thank
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
+@SikOff1 [DEVELOPER]
+@I_crAzy_boy  [MAIN ADMIN]
+@Sudo_telecrazy1 [Manager]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
+@Tele_crazy 
+@i_crazy_boy3
+@joker_admin_1
 Our channels
-@teleseedch [English]
-@iranseed [persian]
-]],
+@crazy_team
+
+http://8pic.ir/images/ejdd5uj8v3uxynhf79j3.jpg
     help_text_realm = [[
+
 Realm Commands:
 
 !creategroup [Name]
